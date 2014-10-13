@@ -1,0 +1,19 @@
+1/2 Columns
+    [one_half]Content here.[/one_half] [one_half_last]Content here.[/one_half_last]
+
+1/3 Columns
+    [one_third]Content here.[/one_third] [one_third]Content here.[/one_third] [one_third_last]Content here.[/one_third_last]
+
+2/3 Columns
+    [two_third]Content here.[/two_third] [one_third_last]Content here.[/one_third_last]
+
+1/4 Columns
+    [one_fourth]Content here.[/one_fourth] [one_fourth]Content here.[/one_fourth] [one_fourth]Content here.[/one_fourth]
+    [one_fourth_last]Content here.[/one_fourth_last]
+
+3/4 Columns
+    [three_fourth]Content here.[/three_fourth][one_fourth_last]Content here.[/one_fourth_last]
+
+1/5 Columns
+    [one_fifth]Content here.[/one_fifth] [one_fifth]Content here.[/one_fifth] [one_fifth]Content here.[/one_fifth]
+    [one_fifth]Content here.[/one_fifth] [one_fifth_last]Content here.[/one_fifth_last]

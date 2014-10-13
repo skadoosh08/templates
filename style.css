@@ -1,0 +1,18 @@
+.last {
+margin-right: 0 !important;
+}
+
+.one_half, .one_third, .two_third, .three_fourth, .one_fourth, .one_fifth, .two_fifth, .three_fifth, .four_fifth, .one_sixth, .five_sixth {
+position: relative;
+margin-right: 4%;
+margin-bottom: 20px;
+float: left;
+color:#FFF;
+}
+
+.one_half{width:48%;background:#FF0000;}
+.one_third{width: 30.66%; background:#7e4242;}
+.two_third {width: 65.33%; background:#075507;}
+.one_fourth {width: 22%; background:#1355a6;}
+.three_fourth {width: 74%; background:#a613a1;}
+.one_fifth{background:#000; width:16.8%;}
